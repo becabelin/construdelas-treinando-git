@@ -1,3 +1,4 @@
-# treinando git
+# ConstruDelas
+## Treinando GIT e GitHub
 
-aqui foi só um treino básico de git com branch, push e tal
+Aqui foi só um treino básico de git com branch, push e afins
